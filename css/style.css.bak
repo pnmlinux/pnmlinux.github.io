@@ -217,7 +217,8 @@ h5 {
 }
 
 .footer {
-  padding: 50px 0 20px 0;
+    
+    padding: 50px 0 20px 0;
   background-image: url("../bgg.jpg");
   color: #878c94;
 }
