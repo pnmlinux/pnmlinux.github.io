@@ -1,2 +1,0 @@
-# pnmlinux.github.io
-pnmlinuxwebsite
